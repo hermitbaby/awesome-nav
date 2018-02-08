@@ -1,4 +1,4 @@
-awsome economy & finance
+awesome economy & finance sites
 
 ## 官方机构
 #### 一行三会
@@ -7,14 +7,25 @@ awsome economy & finance
 #### 交易所
 [深交所](http://www.szse.cn) | [上交所](http://www.sse.com.cn) | [港交所](http://www.hkex.com.hk/) | [中金所](http://www.cffex.com.cn/)
 
+[上海石油天然气交易中心](http://www.shpgx.com/)
+
 #### 有关部门
-[财政部](http://www.mof.gov.cn) | [统计局](http://www.stats.gov.cn) | [发改委](http://www.sdpc.gov.cn) | [商务部](http://www.mofcom.gov.cn) | [海关](http://www.customs.gov.cn) | [国资委](http://www.sasac.gov.cn) | [住建部](http://www.mohurd.gov.cn) | [中证指数公司](http://www.csindex.com.cn)
+[财政部](http://www.mof.gov.cn) | [统计局](http://www.stats.gov.cn) | [发改委](http://www.sdpc.gov.cn) | [商务部](http://www.mofcom.gov.cn) | [海关](http://www.customs.gov.cn) | [国资委](http://www.sasac.gov.cn) | [住建部](http://www.mohurd.gov.cn) | [工信部](http://www.miit.gov.cn/) | [科技部](http://www.most.gov.cn/)
+
+[中证指数公司](http://www.csindex.com.cn) | [中投公司](http://www.china-inv.cn/) | [中央汇金](http://www.huijin-inv.cn/) | [中金公司]()
+
+[社保基金会](http://www.ssf.gov.cn/) | [自然科学基金会](http://www.nsfc.gov.cn/)
 
 #### 行业协会
 [银行业协会](http://www.china-cba.net/) | [保险业协会](http://www.iachina.cn/) | [证券业协会](http://www.sac.net.cn/) | [基金业协会](http://www.amac.org.cn/) | [期货业协会](http://www.cfachina.org/) | [信托业协会](http://www.xtxh.net/) | [小贷公司协会](http://www.china-cmca.org/) | [互金协会](http://www.nifa.org.cn/)
 
+[财务公司协会](http://www.cnafc.org/) | [融资担保业协会](http://www.chinafga.org/) 
+
 #### 国际
-[SEC](http://sec.gov) | [NASDAQ](http://www.nasdaq.com) | [NYSE](http://www.nyse.com) | [美国商务部](http://www.commerce.gov) | [美国经济分析局](http://www.bea.gov) | [美国普查局](http://www.census.gov) | [美国劳工部](http://www.bls.gov) | [美联储](http://www.federalreserve.gov) | [WTO](http://www.wto.org) | [世行](http://www.worldbank.org.cn ) | [IMF](http://www.imf.org)
+[SEC](http://sec.gov) | [NASDAQ](http://www.nasdaq.com) | [NYSE](http://www.nyse.com) | [美国商务部](http://www.commerce.gov) | [美国经济分析局](http://www.bea.gov) | [美国普查局](http://www.census.gov) | [美国劳工部](http://www.bls.gov) | [美联储](http://www.federalreserve.gov) | [WTO](http://www.wto.org) | 
+
+[世行](http://www.worldbank.org.cn ) | [IMF](http://www.imf.org) | [OECD](http://www.oecd.org/) | [亚开行](http://www.adb.org/) | [亚投行](https://www.aiib.org)
+
 
 ## 媒体
 #### 中
@@ -23,7 +34,9 @@ awsome economy & finance
 #### 外
 
 ## 知名论坛
-[财富管理50人](http://www.cwm50.com/) | [经济50人](http://www.50forum.org.cn/) | [金融40人](http://www.cf40.org.cn/) | []() | []()
+[财富管理50人](http://www.cwm50.com/) | [经济50人](http://www.50forum.org.cn/) | [金融40人](http://www.cf40.org.cn/) | []() | 
+
+[达沃斯](https://www.weforum.org) | [博鳌](http://www.boaoforum.org/)
 
 [美国百人会](http://committee100.org/)
 
@@ -41,7 +54,7 @@ awsome economy & finance
 [投中网](http://chinaventure.com.cn/) | [投资界](http://www.pedaily.cn)
 
 #### 机构
-[理财网](https://www.chinawealth.com.cn) | [银登网](http://www.yindeng.com.cn/) | [债权信息网](http://www.chinabond.com.cn/) | [浙江金融资产交易中心](http://www.zjfae.com.cn/) | [货币网](http://www.chinamoney.com.cn/)
+[理财网](https://www.chinawealth.com.cn) | [银登网](http://www.yindeng.com.cn/) | [债权信息网](http://www.chinabond.com.cn/) | [浙江金融资产交易中心](http://www.zjfae.com.cn/) | [货币网](http://www.chinamoney.com.cn/) | [新三板在线](http://www.chinaipo.com/) | [(新华社)金融信息网](http://www.xinhua08.com/)
 
 ## 参考
 [爱思想导航](http://www.aisixiang.com/daohang/) | [金融机构导航ce.cn](http://finance.ce.cn/jrjg/) | [雪球导航](https://xueqiu.com/dh)
