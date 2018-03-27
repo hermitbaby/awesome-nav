@@ -19,6 +19,8 @@ awesome economy & finance sites
 #### 行业协会
 [银行业协会](http://www.china-cba.net/) | [保险业协会](http://www.iachina.cn/) | [证券业协会](http://www.sac.net.cn/) | [基金业协会](http://www.amac.org.cn/) | [期货业协会](http://www.cfachina.org/) | [信托业协会](http://www.xtxh.net/) | [小贷公司协会](http://www.china-cmca.org/) | [互金协会](http://www.nifa.org.cn/)
 
+[房地产协会](http://www.fangchan.com/)
+
 [财务公司协会](http://www.cnafc.org/) | [融资担保业协会](http://www.chinafga.org/) 
 
 #### 国际
@@ -34,9 +36,10 @@ awesome economy & finance sites
 #### 外
 
 ## 知名论坛
+[中国发展高层论坛](http://cdf.cdrf.org.cn/) | [达沃斯](https://www.weforum.org) | [博鳌](http://www.boaoforum.org/)
+
 [财富管理50人](http://www.cwm50.com/) | [经济50人](http://www.50forum.org.cn/) | [金融40人](http://www.cf40.org.cn/) | [亚布力](http://www.cefco.cn/) | 
 
-[达沃斯](https://www.weforum.org) | [博鳌](http://www.boaoforum.org/)
 
 [美国百人会](http://committee100.org/)
 
